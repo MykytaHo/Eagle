@@ -1,2 +1,2 @@
 # Eagle
-Mini game on Python 
+Mini game on JavaScript
